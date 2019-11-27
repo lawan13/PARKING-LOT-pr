@@ -42,7 +42,7 @@ public class parkinlot {
         String type=oo.next();
         if("car".equals(type)){
               parkinlot obj=new parkinlot();
-              parkinlot.typesofcar();
+            
         }
         if("suv".equals(type)){
             parkinlot obj=new  parkinlot(); 
